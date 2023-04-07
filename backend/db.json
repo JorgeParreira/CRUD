@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name:": "Susana Almeida",
+      "email": "susana@mail.com",
+      "name": "Susana Almeida Parreira"
+    },
+    {
+      "id": 2,
+      "name": "Guilherme Parreira",
+      "email": "gui@mail.com"
+    },
+    {
+      "name": "Jorge Parreira",
+      "email": "jorge.parreira@mail.pt",
+      "id": 3
+    }
+  ]
+}
